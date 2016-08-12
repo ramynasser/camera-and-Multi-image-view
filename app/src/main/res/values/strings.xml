@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Choose Picture</item>
+    </string-array>
+</resources>
